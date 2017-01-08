@@ -4,5 +4,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/smaister/bandcamp-collection-parser.git"
+  },
+  "dependencies": {
+    "bandcamp-scraper": "^1.0.1"
   }
 }
